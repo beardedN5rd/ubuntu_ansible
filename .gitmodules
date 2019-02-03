@@ -1,0 +1,3 @@
+[submodule "prepare4ansible"]
+	path = prepare4ansible
+	url = https://github.com/beardedN5rd/prepare4ansible.git
